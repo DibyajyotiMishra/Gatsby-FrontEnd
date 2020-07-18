@@ -1,0 +1,51 @@
+.bg-theme {
+  background: linear-gradient(to right, #ff9966, #fdbb2d);
+}
+
+.cart-icon {
+  font-size: 1.6rem;
+  color: teal;
+  margin-left: 5px;
+  margin-bottom: 2px;
+}
+
+.nav-link {
+  color: teal;
+  font-size: 1.5rem;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.cart-icon:hover {
+  font-size: 1.7rem;
+}
+.header-bg {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.about-bg {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-variant: normal;
+}
+
+.btn-info {
+  padding: 8px 35px;
+  background: linear-gradient(to right, #c4ff66, #50f1cf);
+  border-color: linear-gradient(to right, #c4ff66, #50f1cf);
+  border: 2px;
+}
+
+.btn-info:hover {
+  border: 8px;
+}
+
+.logo:hover {
+  width: 42px;
+}
