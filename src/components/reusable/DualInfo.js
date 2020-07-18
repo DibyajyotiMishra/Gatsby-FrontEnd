@@ -4,9 +4,9 @@ import { Link } from "gatsby"
 export default function DualInfo({ heading, img }) {
   return (
     <section className="my-4 py-4 bg-theme">
-      <div className="container">
+      <div className="container table-responsive-sm">
         <Heading title={heading} />
-        <div className="row justify-content-center">
+        <div className="row justify-content-center mx-auto">
           <div className="col-9 col-sm-6  mx-auto">
             <p className="lead text-white mb-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
@@ -17,7 +17,7 @@ export default function DualInfo({ heading, img }) {
               nemo temporibus atque quas molestiae nostrum soluta sint vero!
             </p>
           </div>
-          <div className="col-3 col-sm-6 mx-auto">
+          <div className="col-3 col-sm-6 mx-auto ">
             <div class="card" style={{ width: 14 + "rem" }}>
               <img src={img} class="card-img-top" alt="image" width="50px" />
               <div className="card-body">
