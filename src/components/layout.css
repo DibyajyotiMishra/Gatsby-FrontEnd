@@ -1,3 +1,6 @@
+body {
+  overflow-x: hidden;
+}
 .bg-theme {
   background: linear-gradient(to right, #ff9966, #fdbb2d);
 }
@@ -48,4 +51,9 @@
 
 .logo:hover {
   width: 42px;
+}
+
+.btn-primary {
+  background: linear-gradient(to right, #44a08d, #093637);
+  border-color: #44a08d;
 }

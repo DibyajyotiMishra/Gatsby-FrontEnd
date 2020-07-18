@@ -7,7 +7,7 @@ export default function DualInfo({ heading, img }) {
       <div className="container">
         <Heading title={heading} />
         <div className="row justify-content-center">
-          <div className="col-9 col-sm-7  mx-auto">
+          <div className="col-9 col-sm-6  mx-auto">
             <p className="lead text-white mb-5">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
               odit doloremque ut incidunt eos dicta asperiores dolorem quidem.
@@ -17,8 +17,8 @@ export default function DualInfo({ heading, img }) {
               nemo temporibus atque quas molestiae nostrum soluta sint vero!
             </p>
           </div>
-          <div className="col-3 col-sm-5 ">
-            <div class="card" style={{ width: 18 + "rem" }}>
+          <div className="col-3 col-sm-6 ">
+            <div class="card" style={{ width: 14 + "rem" }}>
               <img src={img} class="card-img-top" alt="image" width="50px" />
               <div className="card-body">
                 <h5 className="card-title">{heading}</h5>
