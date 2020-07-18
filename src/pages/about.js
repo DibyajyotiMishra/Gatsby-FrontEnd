@@ -13,7 +13,7 @@ const AboutPage = ({ data }) => (
     <SEO title="About" />
     <Header
       img={data.img.childImageSharp.fluid}
-      title="&#128712;  &#10132; ThyDreams &#128516; "
+      title="&#9432;  &#10132; ThyDreams &#128516; "
       subtitle=""
       headerclass="about-bg"
     />
