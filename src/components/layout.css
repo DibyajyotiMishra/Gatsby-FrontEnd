@@ -56,4 +56,11 @@ body {
 .btn-primary {
   background: linear-gradient(to right, #44a08d, #093637);
   border-color: #44a08d;
+  border: 5px;
+}
+
+.btn-light {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  border-color: #e46445;
+  border: 5px;
 }
