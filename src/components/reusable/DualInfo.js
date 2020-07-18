@@ -17,7 +17,7 @@ export default function DualInfo({ heading, img }) {
               nemo temporibus atque quas molestiae nostrum soluta sint vero!
             </p>
           </div>
-          <div className="col-3 col-sm-6 ">
+          <div className="col-3 col-sm-6 mx-auto">
             <div class="card" style={{ width: 14 + "rem" }}>
               <img src={img} class="card-img-top" alt="image" width="50px" />
               <div className="card-body">

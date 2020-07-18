@@ -1,5 +1,5 @@
 body {
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 .bg-theme {
   background: linear-gradient(to right, #ff9966, #fdbb2d);
