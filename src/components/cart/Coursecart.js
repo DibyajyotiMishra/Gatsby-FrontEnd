@@ -79,7 +79,7 @@ export default class Coursecart extends Component {
                       className="btn btn-outline-warning snipcart-add-item"
                       data-item-id={node.id}
                       data-item-price={node.price}
-                      data-item-url="https://thydreams.online"
+                      data-item-url="https://yourwebsite.com"
                       data-item-image={node.image.fixed.src}
                       data-item-name={node.title}
                     >
