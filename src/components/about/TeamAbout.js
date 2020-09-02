@@ -12,7 +12,7 @@ export default function TeamAbout() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Drishya</h5>
+              <h5 class="card-title">Member 1</h5>
               <p class="card-text">
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This content is a little bit
@@ -30,7 +30,7 @@ export default function TeamAbout() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Dheerav</h5>
+              <h5 class="card-title">Member 2</h5>
               <p class="card-text">
                 This card has supporting text below as a natural lead-in to
                 additional content.
@@ -47,7 +47,7 @@ export default function TeamAbout() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Shreya</h5>
+              <h5 class="card-title">Member 3</h5>
               <p class="card-text">
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This card has even longer content
