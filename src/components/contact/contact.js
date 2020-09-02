@@ -7,7 +7,7 @@ export default function Contact() {
       <Heading title="Tell us your Query" />
       <div className="col-10 col-sm-8 mx-auto">
         <form
-          action="https://formspree.io/dibyajyotimishra14@gmail.com"
+          action="https://formspree.io/process.env.EMAIL"
           method="POST"
         >
           <div className="form-group">
