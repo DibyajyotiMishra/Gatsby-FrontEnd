@@ -21,7 +21,7 @@ const AboutPage = ({ data }) => (
       heading="A Message From our Team &#128519;"
       img="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     />
-    <Info heading="Our Vision" />
+    <Info heading="Our Goals" />
     <TeamAbout />
   </Layout>
 )
